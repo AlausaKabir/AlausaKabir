@@ -20,7 +20,7 @@
 
 **Building Production-Ready Enterprise Systems** – From real-time chat platforms to AI-powered mobile apps, I architect solutions that handle millions of transactions and scale globally.
 
-### ⚙️ Backend & System Architecture (5+ years)
+### ⚙️ Backend & System Architecture (4+ years)
 - **Frameworks**: NestJS • Node.js • Express • Spring Boot • Django • FastAPI
 - **Databases**: PostgreSQL • MongoDB • Prisma • Redis
 - **Architecture**: Microservices • Clean Architecture • Event-Driven Systems
