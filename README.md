@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Mumuni Kabiru Korede
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;System+Architect;AI%2FML+Engineer;FinTech+Specialist;Mobile+App+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;System+Architect;AI%2FML+Engineer;FinTech+Specialist" alt="Typing SVG" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -81,7 +81,7 @@
 - **Dashboard Suite**: Admin panels for multiple platforms
 
 **💡 Key Achievements:**
-- Built scalable chat system handling 10k+ concurrent users
+- Built scalable chat system handling 1k+ concurrent users
 - Architected microservices with Docker containerization
 - Implemented real-time billing systems with 99.9% uptime
 
@@ -123,7 +123,7 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="30"> **Real-time Systems**
 <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30"> **FinTech Solutions**
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **AI/ML Applications**
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> **Mobile Development**
+
 
 </div>
 
