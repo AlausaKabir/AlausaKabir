@@ -22,7 +22,7 @@
 
 ### ⚙️ Backend & System Architecture (4+ years)
 - **Frameworks**: NestJS • Node.js • Express • Spring Boot • Django • FastAPI
-- **Databases**: PostgreSQL • MongoDB • Prisma • Redis
+- **Databases**: PostgreSQL • MySQL • MongoDB • Prisma • Mongoose • TypeORM • Redis
 - **Architecture**: Microservices • Clean Architecture • Event-Driven Systems
 - **DevOps**: Docker • GitHub Actions • CI/CD • Monitoring (Grafana/Prometheus)
 
