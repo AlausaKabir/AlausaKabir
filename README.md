@@ -27,7 +27,7 @@
 - **DevOps**: Docker • GitHub Actions • CI/CD • Monitoring (Grafana/Prometheus)
 
 ### 📱 Mobile & AI Development
-- **Mobile**: Flutter • React Native • Dart • Clean Architecture
+- **Mobile**: Flutter • Dart • Clean Architecture
 - **AI/ML**: Python • Computer Vision • Image Analysis • FastAPI
 - **Frontend**: React • Next.js • TypeScript • Tailwind CSS
 
