@@ -117,7 +117,7 @@
 <div align="center">
 
 ### Languages & Technologies
-<img src="https://skillicons.dev/icons?i=typescript,javascript,dart,python,java,mysql,postgresql, nodejs,nestjs,react,flutter,fastapi,docker,mongodb,postgresql,redis,github&perline=8" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,dart,python,java,mysql,postgresql,nodejs,nestjs,react,flutter,fastapi,docker,mongodb,postgresql,redis,github&perline=9" />
 
 ### Specializations
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="30"> **Real-time Systems**
