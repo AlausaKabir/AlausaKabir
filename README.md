@@ -144,7 +144,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AlausaKabir&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlausaKabir&theme=github_dark" />
 </div>
 
 ## 🏆 Professional Highlights
