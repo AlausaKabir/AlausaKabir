@@ -143,10 +143,6 @@
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=AlausaKabir&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlausaKabir&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&custom_title=📈%20Overall%20GitHub%20Contribution%20Stats" alt="Overall Contribution Stats" />
-</div>
-
 ## 🏆 Professional Highlights
 
 <div align="center">
