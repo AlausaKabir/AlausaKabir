@@ -147,6 +147,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlausaKabir&theme=github_dark" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlausaKabir&show_icons=true&count_private=true&hide=prs,issues&custom_title=📈%20Total%20Commits%20Overview&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Total Commits Stats" />
+</div>
+
 ## 🏆 Professional Highlights
 
 <div align="center">
