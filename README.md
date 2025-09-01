@@ -134,7 +134,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlausaKabir&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AlausaKabir&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true" alt="GitHub Stats" />
   
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlausaKabir&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
 </div>
@@ -144,17 +144,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlausaKabir&theme=github_dark" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlausaKabir&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlausaKabir&theme=github_dark" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlausaKabir&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlausaKabir&theme=github_dark&utcOffset=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlausaKabir&show_icons=true&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&custom_title=📈%20Overall%20GitHub%20Contribution%20Stats" alt="Overall Contribution Stats" />
 </div>
 
 ## 🏆 Professional Highlights
